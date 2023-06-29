@@ -1,4 +1,6 @@
 com/spring/SpringWEB/controllers/UsuarioController.class
+com/spring/SpringWEB/dao/UsuarioDaoImp.class
 com/spring/SpringWEB/ServletInitializer.class
+com/spring/SpringWEB/dao/UsuarioDao.class
 com/spring/SpringWEB/SpringWebApplication.class
 com/spring/SpringWEB/models/Usuario.class

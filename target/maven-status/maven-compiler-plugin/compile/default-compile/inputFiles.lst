@@ -1,4 +1,6 @@
 /home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/models/Usuario.java
+/home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/dao/UsuarioDaoImp.java
 /home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/ServletInitializer.java
+/home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/dao/UsuarioDao.java
 /home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/controllers/UsuarioController.java
 /home/eladios/Programacion/JAVA/SpringWEB/src/main/java/com/spring/SpringWEB/SpringWebApplication.java

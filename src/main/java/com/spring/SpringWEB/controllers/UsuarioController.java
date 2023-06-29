@@ -1,5 +1,6 @@
 package com.spring.SpringWEB.controllers;
 
+import com.spring.SpringWEB.dao.UsuarioDao;
 import com.spring.SpringWEB.models.Usuario;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
